@@ -8,6 +8,7 @@ Until we upgrade we can't upgrade not all functionality will work on the dev too
 To downgrade for Chrome:
 
 1. Go to chrome://extensions/  remove the current React tools
-2. Download the attached version of React dev tools
-2. Drag and drop it onto the chrome extensions window
-4. Restart Chrome
+2. Enable Developer mode in the top left corner
+3. Download the attached version of React dev tools
+4. Drag and drop it onto the chrome extensions window
+5. Restart Chrome
