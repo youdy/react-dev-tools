@@ -5,10 +5,9 @@ As of 19th August 2019 the React team released shiny new dev tools for both Chro
 Until we upgrade we can't upgrade not all functionality will work on the dev tools
 
 
-
 To downgrade for Chrome:
 
-Go to chrome://extensions/  remove the current React tools
-Download the attached version of React dev tools
-Drag and drop it onto the chrome extensions window
-Restart Chrome
+1. Go to chrome://extensions/  remove the current React tools
+2. Download the attached version of React dev tools
+2. Drag and drop it onto the chrome extensions window
+4. Restart Chrome
